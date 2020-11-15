@@ -138,7 +138,7 @@ public class Main {
                     break;
                 case 4:
                     patient.getStomach().getDetails();
-                    System.out.println("\t1. Feed" +
+                    System.out.println("\t1. Feed Patient" +
                             "\n\t2. Back");
                     if(scanner.nextInt()== 1){
                         patient.getStomach().digest();
