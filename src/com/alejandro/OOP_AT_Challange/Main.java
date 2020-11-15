@@ -33,7 +33,7 @@ public class Main {
 
 
 
-        System.out.println("Doc Alejandro: Hello I'm Doctor Alejandro What is your name and age?");
+        System.out.println("Doctor Alejandro: Hello I'm Doctor Alejandro What is your name and age?");
         System.out.print("Enter your name: ");
         patient.setName(scanner.next());
         System.out.print("Enter your age: ");
